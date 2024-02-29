@@ -1,4 +1,4 @@
-# Keyword Analysis Tool
+# GOOGLE Keyword Analysis Tool
 
 The Keyword Analysis Tool is a web-based application designed to help users analyze keywords from CSV and Excel files based on specified criteria. It filters keywords by minimum average monthly searches and maximum top of page bid (high range), providing a streamlined view of data that meets these conditions.
 
